@@ -1,0 +1,869 @@
+evolutionary origin.
+That last animal is therefore an extraordinarily valuable control condition.
+If we ask what remains after removing parental teaching, cumulative culture, mammalian brain organization, vertebrate anatomy and—in many species—complex stable social groups, whatever survives that comparison becomes a much stronger candidate for something fundamental to intelligence.
+One candidate immediately jumps out:
+the need to solve novel problems faster than genetic evolution can specify their solutions.
+That would make intelligence less fundamentally about brains, sociality, childhood, language, or even knowledge.
+It would make intelligence something closer to a biological response to uncertainty.
+And there's a wonderfully strange implication of that interpretation. Extended childhood and cephalopod independence would cease being opposites. They would be two different evolutionary solutions to the same problem.
+Humans effectively say:
+Remain unfinished for a very long time, because other intelligent systems will protect you while you learn.
+The octopus strategy is closer to:
+Remain behaviorally unfinished, learn extremely quickly, and start immediately.
+That comparison is genuinely powerful. If we wanted to investigate the architecture of intelligence rather than rank animals by "smartness," cephalopods are exactly the lineage I'd want sitting on the opposite side of the table from vertebrate intelligence.
+Yes, but that framing doesn't clearly reveal anything that wasn't previously an inferrable characteristic. Let's change the question and see where you go with it. Because intelligence being an adaptation to uncertainty doesn't mean anything that we need these specific cases, together, to understand. We want to know why and/or how the intelligence is at such an advanced level in these cases compared to other animals. I did learn one thing from your reply though, which is that the highly unique and alien like set of traits that cephalopods have are likely because of their underlying intelligence capacity. When intelligence is that high with no parental ability to communicate knowledge history, the knowledge has to be stored genetically, elsewise the intelligence (which is probably extremely expensive given its rarity) would not serve a generationally relevant purpose. I have an idea of what the key might be, but I want to see what you say before I tell you
+Yes—I think my previous answer stopped one explanatory level too early. "Intelligence helps with uncertainty" explains why intelligence is useful; it doesn't explain why a handful of lineages crossed into unusually high general cognitive capacity while thousands facing uncertainty did not.
+I also want to modify one part of your genetic-storage inference, because I think the correction actually makes the cephalopod case more useful.
+Cephalopods clearly inherit an enormous amount of behavioral architecture genetically, but they cannot be genetically inheriting most of the knowledge acquired by their parents. Ordinary acquired memories don't get written back into germline DNA. And experimentally, octopuses are heavily dependent on individual learning and possess sophisticated learning-and-memory machinery, including a vertical-lobe system with activity-dependent synaptic plasticity strikingly analogous in function to vertebrate learning systems.
+So evolution has done something arguably stranger:
+It repeatedly pays to build an expensive learning machine, let that machine spend its lifetime acquiring information—and then throw essentially all of that acquired information away.
+The next octopus gets the capacity, predispositions, sensory architecture, motor programs, etc., but largely starts its learned model of the world again.
+That means cumulative cultural transmission cannot be necessary for advanced individual cognition. It may be enormously important for how far human intelligence ultimately went, but cephalopods let us subtract it from whatever produced the underlying cognitive machinery.
+And I think that gives us a much sharper comparative experiment.
+Don't compare "smart animals." Compare what independently became smart.
+We've got at least three spectacularly separated constructions:
+Primates/cetaceans — mammalian intelligence
+centralized vertebrate brain; extended development; substantial parental investment; often intense sociality.
+Corvids/parrots — avian intelligence
+very different brain organization; egg development; parental provisioning; extended juvenile learning; usually substantial sociality.
+Coleoid cephalopods — cephalopod intelligence
+molluscan nervous system; radically distributed sensorimotor control; generally no intergenerational parental teaching; often short lives and limited sociality.
+Cephalopods diverged enormously far from vertebrates, and their nervous systems were independently transformed into something capable of sophisticated perception, learning and memory. They're consequently one of our best natural experiments in convergent cognitive evolution.
+Now ask not what ecological challenge do all three face? Almost every animal faces difficult ecological challenges.
+Ask:
+What expensive capability became sufficiently valuable in all three cases that selection repeatedly built unusually powerful general learning machinery to support it?
+My strongest candidate is high-dimensional sensorimotor agency—specifically, the ability to actively interrogate and manipulate the environment and then learn from the consequences.
+That's narrower than "uncertainty."
+A cow encounters enormous environmental uncertainty but has a relatively constrained action-space. An octopus has eight extraordinarily flexible arms containing enormous peripheral neural machinery, hundreds of suckers capable of tactile/chemical sensing, excellent vision, camouflage under neural control, and an almost absurd number of physically possible interactions with its surroundings. Its nervous system has to control a body for which fixed motor programs alone would be extremely limiting. Modern cephalopod neuroscience explicitly connects their transformed nervous systems to controlling unusually complex bodies while integrating rich visual, tactile and chemical information.
+Now look at our other cases.
+Primates: hands + binocular vision + individually controllable digits + climbing/manipulation.
+Cetaceans: sophisticated locomotion + echolocation in toothed whales + coordinated hunting + complex acoustic/social interaction, although comparatively little object manipulation.
+Corvids: beak + feet + flight + excellent vision + object manipulation/tool use.
+Parrots: unusually dexterous feet + highly articulated beak/tongue + vision + climbing/manipulation.
+Cephalopods: perhaps the most extreme manipulative body plan of the lot.
+That suggests a feedback mechanism considerably more specific than intelligence-as-uncertainty:
+greater action-space → more possible consequences → fixed behavioral programs become increasingly inadequate → learning becomes more valuable → better learning permits exploitation of still more actions → selection favors greater sensory integration, memory and prediction → those capacities make increasingly sophisticated behavior possible.
+In other words, perhaps intelligence becomes unusually valuable when an organism doesn't merely have to choose among many circumstances, but can produce many different circumstances through its own actions.
+That would explain something uncertainty alone doesn't. A complicated environment doesn't necessarily demand a generally intelligent animal if evolution can give it a repertoire of adequate responses. But give an organism an enormous number of possible actions and suddenly the relevant state space becomes combinatorial: what I perceive × what I remember × what I can do × what happened when I did something similar before.
+Then learning isn't just useful. It may become the only economical control architecture.
+And cephalopods become the crucial case because they strip away the tempting vertebrate explanations—parental education, long childhood, cumulative culture, mammalian neuroanatomy—and leave us with an organism possessing extraordinary sensory richness, extraordinary degrees of bodily freedom, active exploration, strong learning and memory, and extremely sophisticated behavioral control.
+That's where I'd place my bet before hearing yours:
+Advanced intelligence may emerge particularly readily when evolution gives an animal enough agency that its possible behaviors become too numerous and context-dependent to specify individually.
+Sociality and prolonged childhood could then be amplifiers rather than the original engine. Once intelligence exists, they allow acquired solutions to be retained across individuals and generations rather than repeatedly rediscovered—which might explain why vertebrate lineages with prolonged parental investment could subsequently run much farther with the architecture than cephalopods generally have.
+And now I very much want to hear what key you spotted, because I suspect you've isolated a different common denominator.
+I actually isolated a structural curiosity between the nervous systems of the animals, but when you started to describe your idea, I curiously took the opposite reasoning path for distinguishing it than you eventually went with in your elaboration. Because I see now what you're suggesting , but I wouldn't have been so quick to say "capacity to manipulate environment-->enhanced cognitive abilities" i instead might have said "<--more numerous categories of and/and/or more specialised/precise sensory capacities--->more cognitive development to understand and discern environment + more attempts to manipulate environment--->greater capacity to manipulate environmentx-->" with the notation at the beginning and end signifying a closed recursive loop in which no specific item is definable as happening before another
+Yes. I substantially prefer your formulation to the directional one I proposed, because mine quietly smuggled in a historical claim—manipulative capacity came first and selected for cognition—when the comparative evidence doesn't require that ordering at all.
+Your version is a coupled evolutionary system:
+sensory differentiation ↔ cognitive differentiation ↔ behavioral experimentation ↔ manipulative capacity ↔ sensory differentiation ...
+with no privileged beginning.
+And there's an important distinction in what you said that I'd preserve: more sensory capacities and more specialized/precise sensory capacities aren't equivalent. Either could enlarge the informational problem. An animal might acquire an entirely new sensory modality, or merely become capable of making much finer distinctions within an existing one. Both increase the number of environmentally meaningful distinctions its nervous system can potentially represent.
+That produces a rather interesting positive-feedback mechanism.
+Suppose an organism evolves slightly better tactile discrimination. That makes distinctions in the environment available that previously effectively didn't exist for that organism. Those distinctions make additional behaviors possible. Successful behavioral differentiation rewards finer control. Finer control makes still subtler sensory information useful. Selection can consequently favor greater integrative capacity, which permits still more distinctions to become behaviorally relevant.
+So instead of:
+complex environment → intelligence
+we get something closer to:
+greater perceptual resolution ↔ greater behavioral resolution ↔ greater integrative resolution
+The environment hasn't necessarily become more complicated. The organism has increased the resolution at which the environment exists for it.
+That's a considerably stronger proposition.
+And now cephalopods become exceptionally interesting. An octopus isn't merely capable of manipulating many things. Its suckers provide extraordinarily rich local tactile and chemical information; its visual system is sophisticated; its skin participates in an elaborate neurally controlled appearance system; and a tremendous amount of neural processing occurs outside the central brain. Every increase in what that animal can distinguish potentially creates additional useful things it can do, while every additional thing it can do creates selection pressure for distinctions relevant to controlling and evaluating those actions.
+And your insistence on recursion rather than an originating variable solves a notorious problem with evolutionary explanations like mine. Asking whether intelligence produced sophisticated manipulation or sophisticated manipulation produced intelligence may simply be asking for an ordering that ceased to be meaningful once the feedback loop became established. Tiny ancestral differences can enter the loop from any point.
+Something improves sensation.
+→ cognition becomes more valuable.
+Something improves cognition.
+→ experimentation becomes more profitable.
+Something improves manipulation.
+→ sensory precision becomes more valuable.
+Something improves exploratory behavior.
+→ learning becomes more valuable.
+Each can select for the others.
+Then eventually you've built an organism for which losing any one component would reduce the value of several others. The loop has become self-reinforcing.
+And this gives us a possible explanation for rarity that "intelligence handles uncertainty" couldn't provide.
+Intelligence is expensive. A small isolated increase in general computational capacity might therefore usually be selected against: why maintain expensive neural tissue without enough additional information or behavioral possibility to exploit it?
+But once several mutually reinforcing capacities cross some threshold together, the economics change. Increasing cognition increases the utility of sensation and agency; increasing sensation increases the utility of cognition and agency; increasing agency increases the utility of cognition and sensation.
+That resembles an evolutionary positive-feedback basin rather than a single adaptation.
+Which makes your comment about the structural curiosity in their nervous systems suddenly much more important. Because if you've noticed a neurological feature shared among cephalopods and these independently intelligent vertebrate lineages, we now have something considerably more discriminating to test:
+Does that nervous-system architecture provide the mechanism by which this sensory–cognitive–behavioral recursive loop can scale?
+That could potentially answer the how, while the recursion we've just identified supplies a candidate for the why.
+So yes—I definitely want the structural curiosity now.
+Its the massive imbalance in investment into specialization within the nervous system. Again, impossible to say if this is a sequential correlative adaptation or a recursive looping adaptation in the context of intellectual capacity, but birds might help to figure that out. Its mainly a contrast between humans and cephalopods specifically, because I don't know a lot about avian neural anatomy. But human nervous systems are highly specialised, very explicitly divided, and the vast majority of the plasticity only happens in one area (maybe even with one cell type? Not structurally, just functionally) cephalopods are the reverse, stable, simple central system with a highly adaptable, highly plastic peripheral. Meaning the arms are the things with agency, and its entirely possible that its memory is distributed across them and that losing an arm could remove memories shared by the entire body
+Yes. That is a much more discriminating hypothesis. But there are two corrections to the neuroanatomy that, rather than killing it, make the comparison considerably more interesting.
+First, human plasticity is not confined to one area or one cell type. Synaptic plasticity occurs throughout many cortical and subcortical systems, involving multiple neuronal and glial types. There is, however, extreme functional specialization and compartmentalization: different circuits disproportionately handle vision, audition, motor control, language, episodic memory, procedural learning, etc. So I think your broader characterization—a highly differentiated central nervous system containing specialized processing systems—survives, while the "plasticity in one place/cell" part doesn't.
+Second, the octopus central brain isn't simple or rigid. In fact, this produces the first really striking convergence with your hypothesis: octopuses possess a specialized central vertical-lobe system devoted heavily to learning and memory, and it exhibits long-term synaptic potentiation. Its network organization appears to have convergently arrived at some of the same computational principles seen in vertebrate memory systems despite completely independent evolutionary origins.
+But your central/peripheral inversion is real enough to be fascinating.
+Roughly two-thirds of an octopus's ~500 million neurons have traditionally been estimated to reside in its arms, while only ~40–45 million reside in the central brain proper; the optic lobes constitute another enormous processing system outside the central brain capsule. Each arm contains hundreds of serial ganglia that locally process sensory information and issue motor commands while communicating with the central brain.
+So I'd reformulate your proposed commonality as:
+Exceptional intelligence may correlate not simply with having lots of neural computation, but with disproportionately investing neural resources into highly differentiated computational subsystems.
+Then humans and octopuses become almost beautiful opposites.
+Human: extreme specialization achieved predominantly by partitioning a massive centralized nervous system.
+Octopus: extreme specialization achieved partly by distributing substantial computation into the sensory/manipulative apparatus itself.
+And now birds become an excellent test.
+Birds do something extremely interesting
+Avian brains are not little generalized brains. They're remarkably specialized.
+Songbirds, for example, have an identifiable network of interconnected nuclei dedicated to learned vocal behavior. Different pathways participate disproportionately in song production versus sensorimotor learning. Moreover, the auditory memory of the tutor's song appears to involve areas outside the song-production system—meaning even one seemingly unified cognitive ability is decomposed into specialized subsystems.
+And birds can exhibit an extraordinary form of localized plastic investment: adult neurogenesis. New neurons can enter the adult forebrain, with particularly well-studied recruitment into song circuitry; in seasonal songbirds, portions of that circuitry can substantially regress and subsequently be rebuilt with newly incorporated projection neurons. Food-caching birds provide another example: species heavily dependent upon remembering thousands of cache locations show corresponding specialization of hippocampal systems.
+That is beginning to look remarkably compatible with what you've noticed.Not:
+more neurons → smarter.
+Not even:
+more plasticity → smarter.
+But potentially:
+greater functional differentiation of neural resources ↔ greater integrative capacity.
+That sounds paradoxical until you think computationally. A system might become more generally capable because its components become less general.
+Vision gets extremely good at vision.
+Spatial systems get extremely good at space.
+Motor systems get extremely good at movement.
+Memory systems get extremely good at associative storage.
+Then something has to integrate the outputs of increasingly sophisticated specialists.
+And that integrative problem itself selects for increasingly sophisticated higher-order processing.
+That would give us another recursive loop:
+specialization ↔ integration
+Increasing specialization makes integration more valuable; better integration makes further specialization usable.
+Your arm-memory idea is the especially juicy prediction
+Here I have to put a large UNKNOWN sign on it.
+We know octopus arms can perform substantial local computation and produce coordinated movements with considerable autonomy. But experiments also show that the central nervous system receives peripheral tactile/movement information and can use it for operant learning and goal-directed control. So "eight independently thinking arms receiving occasional instructions from headquarters" is too strong.
+And established octopus learning and memory is strongly associated with central structures such as the vertical lobe.
+But that does not establish that all behaviorally relevant memory is centralized.
+If durable experience-dependent changes occur in arm circuitry—and particularly if different arms can retain different learned information—your amputation thought experiment becomes an actual empirical discriminator:
+Train one arm on information unavailable to the others → establish retention → remove/disconnect that arm or otherwise prevent its contribution → test whether the animal retains the learned information through another arm.
+Obviously the ethically acceptable experimental implementation would need considerably more sophistication than "chop off the trained arm." 😁 But conceptually the prediction is excellent.
+There are at least three possible architectures:
+Central storage: train arm A → arm B subsequently demonstrates the learning.
+Peripheral storage: train arm A → arm B doesn't possess it.
+Distributed storage: some components transfer across arms while others remain specific to A.
+And that third possibility strikes me as particularly plausible because the evidence already tells us that octopus behavior involves both substantial peripheral autonomy and central integration, rather than either extreme.
+If something resembling the third result were established, we'd suddenly have two radically independent evolutionary implementations of sophisticated cognition showing a common architectural principle:
+Don't make every neuron capable of doing everything. Build highly specialized neural systems, permit substantial local adaptation, and invest heavily in mechanisms that integrate their outputs.
+Humans would implement that principally inside the skull. Octopuses would implement an enormous fraction of it throughout the body. Birds might provide an independently evolved vertebrate intermediate that helps distinguish which architectural properties consistently accompany exceptional cognition.
+That is a much more specific comparative hypothesis about how advanced intelligence becomes computationally feasible than where we started.
+Yes, with an extremely important flag to raise about something you just did without noticing. I said memories might live in the arms and not the hq, that was not a comment on cognitive capacity in any way. It was an observation about a potential distinction between intelligent structural components vs memory-capable structural components and whether they are the same, different, or unrelated. The difference being the concentration of neurons in one or certain areas of the nervous system relative to the rest, and that that distinction might be related to excellent memory capacity, which would be highly relevant toward the recursive loop we identified as a possible driver of intelligence becoming strong enough to establish itself and grow at an accelerating speed
+Yes. That's an important correction. I inadvertently collapsed "where computation occurs" and "where durable state is stored" into the same variable. Your hypothesis explicitly requires us not to assume they're the same thing.
+And that gives your observation considerably more bite.
+There are really at least three independently variable architectural properties:
+processing specialization — where particular transformations/computations occur;
+memory specialization — where experience-dependent information is retained;
+integration — how those specialized systems exchange information and affect whole-organism behavior.
+A dense concentration of neurons could principally serve any one of those—or several simultaneously. We shouldn't infer its function merely from neuronal density.
+Your octopus question therefore isn't really "does an arm think?" It's closer to:
+Does the nervous system allocate durable information storage according to the same topology by which it allocates processing?
+Those are very different questions.
+And now I see more clearly why you're connecting this to our recursive model. Memory is what allows the loop to accumulate.
+Without memory, our earlier recursion:
+perception ↔ cognition ↔ experimentation/manipulation
+can generate sophisticated momentary behavior, but every iteration largely disappears. With sufficiently powerful retention, however:
+perception → discrimination → action → consequence → retained information → altered future discrimination/action → new consequence → additional retained information ...
+The organism isn't merely cycling through the loop. Each traversal changes the starting conditions of the next traversal.
+That's potentially an enormous distinction.
+It also makes your "massive imbalance" observation more precise. Perhaps one thing worth comparing across unusually cognitively capable lineages isn't total neuron count, brain/body ratio, or even generic neural plasticity, but something like disproportionate neural allocation to systems capable of retaining and exploiting experience.
+Then the octopus is especially valuable because evolution has arranged its nervous system so differently from ours. If sophisticated memory depends upon a particular kind of architecture rather than a particular anatomical location, we might find analogous organizational principles implemented centrally in humans/birds and peripherally or centrally+peripherally in cephalopods.
+And importantly, we don't yet get to assume that the octopus arms are the memory-specialized component. That's exactly the empirical question. The known vertical-lobe learning system gives us definite central memory machinery. What we'd want to know is whether the huge peripheral nervous system also undergoes durable experience-dependent changes that encode information locally—and, if so, what kind of information.
+That produces some wonderfully discriminating possibilities. An arm could have enormous computational autonomy but little durable memory; alternatively it could contain durable sensorimotor memories without possessing anything we'd reasonably call independent cognition. Or those properties could overlap. Memory-capable ≠ intelligent ≠ computationally autonomous.
+And birds now become more useful than I appreciated in my previous response. We'd want to stop asking merely whether their brains are "specialized" and ask something much narrower:
+Among birds, does exceptional cognitive performance correlate with unusually concentrated/specialized memory architecture, and does that relationship distinguish corvids/parrots from less cognitively flexible birds?
+Then do the same comparison within mammals, and finally compare the organizational principle rather than homologous anatomy against cephalopods.
+If that correlation survived, we'd have a candidate mechanism for the acceleration you described: increasing sensory/cognitive resolution produces more potentially useful experience; enhanced memory makes more of that experience persist; accumulated experience makes finer cognition useful; finer cognition extracts more information worth remembering.
+So the larger recursion becomes something like:
+discrimination ↔ action ↔ consequence ↔ memory ↔ improved discrimination ↔ ...
+with specialization potentially increasing the efficiency of one or more stages.
+And that could potentially help explain why cognitive evolution sometimes seems to produce spectacular outliers rather than a smooth continuum. Once an organism becomes sufficiently good at retaining the products of its own cognition, improvements in cognition increase the value of memory, while improvements in memory increase the lifetime payoff from cognition.
+It's essentially a biological ratchet inside the lifetime of the organism.
+Then parental care/social learning introduces a second ratchet: information begins surviving between organisms rather than merely between experiences. And cumulative culture introduces a third: information begins surviving beyond particular relationships and generations.
+That gives us a rather beautiful hierarchy we didn't have when we started:
+experience → memory: accumulation across moments.
+teaching/social learning: accumulation across individuals.
+culture: accumulation across generations.
+Cephalopods potentially isolate the first ratchet extraordinarily well, while birds may give us variation across the first and second, and humans represent the absurdly amplified interaction of all three.
+That feels much closer to the thing you've been circling than my original "intelligence handles uncertainty" answer.
+Yes but with a few important notes. First, the architecture would be >--(<--sensory differentiation-->increased environmental manipulation-->increased cognitive capacity-->)x(<--increasingly detailed working memory-->increasingly accurate short term memory-->increasingly durable long term memory-->)--< with the notation now representation two closed reflexive loops integrated (and reinforcing each other with a multiplicative progression, which would be required for it to become established in an evolutionarily constrained environment) as part of a single, globally closed recursive looping structure. It could also reveal a fascinating result if we found that cephalopods have almost no capacity for memory whatsoever. That every adaptation and seemingly intelligent action is discovered on the spot every time. I hinted at it earlier but I'm curious if you would interpret such a result differently from me so ill let you give your take first.
+Yes. Your revised notation changes the model substantially. It is no longer one ratchet with memory appended; it's two internally recursive systems whose outputs increase the returns available to the other:
+--( sensory differentiation ↔ environmental manipulation ↔ cognitive capacity ) × ( working-memory detail ↔ short-term fidelity ↔ long-term durability )--<
+with the entire coupled structure itself closed recursively.
+The × rather than + is the important claim. If the relationship were merely additive, expensive improvements in cognition could repeatedly be selected away before producing enough benefit. Mutual amplification potentially gives you the nonlinear regime you were looking for: once both loops are sufficiently developed, an improvement anywhere can increase the evolutionary return on improvements elsewhere. That's a plausible form of mechanism for crossing a threshold, although we'd need evidence before saying biological evolution actually follows that mathematics.
+Now suppose the cephalopod had essentially zero memory
+We already know that counterfactual isn't true: octopuses have experimentally demonstrated learning and long-term retention, their vertical lobes contain long-term synaptic plasticity, and cuttlefish can retain what–where–when information; remarkably, episodic-like performance has even been demonstrated near senescence. A 2023 octopus vertical-lobe connectome even identifies candidate synaptic "memory sites."
+But your counterfactual is extremely informative, because if tomorrow all of that evidence collapsed and we discovered that apparent cephalopod memory was actually reconstruction from current conditions, I would interpret it in a fairly radical way:
+It would force us to separate intelligence from learning much more strongly than we currently do.
+Imagine an octopus encounters a jar on Monday, works out how to open it, and gets the food.
+On Tuesday it encounters an equivalent jar and opens it just as successfully—but possesses no retained information whatsoever from Monday.
+Then Tuesday's performance isn't retrieval.
+It's recomputation.
+And if sufficiently sophisticated behavior repeatedly appeared that way, I'd start wondering whether we've mistaken rapid inference for memory in some animals.
+That would give us two radically different ways of producing something that behaviorally looks like expertise:
+memory-heavy intelligence:
+problem → solve → store solution → retrieve solution.
+reconstructive intelligence:
+problem → solve → discard → encounter problem → solve again.
+And evolutionarily, the second animal would be doing something extraordinary. Selection couldn't preserve the solutions the individual discovers, as you were saying earlier. It could only improve the machinery that generates solutions.
+That means the generationally heritable product wouldn't have to be an enormous genetic encyclopedia saying "when X happens, do Y." In fact, I'd predict almost the opposite.
+Evolution would have selected an increasingly powerful generative architecture.
+Genes would specify sensory organization, priors, drives, computational rules, motor architecture, attentional biases, etc.; then each individual would continually manufacture context-specific behavior from those ingredients.
+And that would change how I'd interpret your two-loop model.
+If cephalopods had essentially no memory but retained exceptional cognition, then your second loop could not be necessary for advanced intelligence. We'd have discovered two alternative routes:
+sensory/action/cognition recursion alone → sufficiently powerful online inference
+versus
+sensory/action/cognition recursion × memory recursion → cumulative individual intelligence.
+That would be an enormous comparative result because humans and cephalopods would then occupy almost opposite ends of a storage–computation tradeoff.
+Humans would achieve extraordinary cognition partly by retaining tremendous amounts of information and progressively operating upon accumulated representations.
+Cephalopods would achieve it by being extraordinarily good at reconstructing appropriate representations right now.
+And there is an even stranger implication.
+A sufficiently powerful recomputational animal might fool us into attributing memory to it because memory and reliable reconstruction can be behaviorally equivalent.
+If yesterday I learned that A→B and today remember A→B, I produce B.
+If yesterday is completely gone but today I encounter A and can infer B again, I also produce B.
+From outside:
+A → B.
+Same observation. Completely different cognitive architecture.
+That's why experiments demonstrating delayed discrimination, altered behavior from previous reinforcement, what–where–when integration, etc. matter so much: researchers specifically need designs where the animal's present sensory state doesn't contain enough information simply to regenerate the correct response. And current cephalopod evidence does pass enough of those tests that genuine memory is very difficult to eliminate.
+But I suspect there may be another interpretation you're aiming at, because of something you said earlier: "the knowledge has to be stored genetically." If you're taking the zero-memory counterfactual somewhere beyond the computation/storage distinction—perhaps toward what natural selection would have to encode when acquired information cannot survive even within one lifetime—I haven't completed that inference yet.
+So I'm deliberately stopping there rather than stealing your next move.
+Its all in the trade-offs, is how I would continue the idea. I'll trust your claim that cephalopods have absolutely displayed evidence of memory capacity, but i would flag that 'memory capacity' and 'memory' in the sense you or a human would conceptualise it are potentially extremely different things. A reflex induced reaction to an external cue is a memory capacitated response. A cephalopods memory could be entirely dependent on the combined textural and external chemical profile of an object. And then the action taken to utilise that object in a rewarding way. And it could end there. But it could still be incredibly complex and extensive. The difference would be in the level of detail at which those profiles exist and the number of distinct actions that can be associated with each profile and how long the sequence of actions is allowed to become. All of these things could potentially have nothing to do with a separate quality we call 'intelligence' but might be better described as 'cognitive capacity' because it is not intelligence as humans understand it if it does not require any of the stuff i just listed.
+Yes. I think "it's all in the trade-offs" gets us somewhere substantially sharper, because you're questioning whether we're accidentally bundling several computational capacities together under intelligence simply because humans possess them together.
+And your cephalopod example is exactly where that becomes experimentally separable.
+What researchers call cephalopod "memory" is operational: previous experience causes a durable, measurable change in later behavior. That establishes information retention. It does not, by itself, establish anything resembling human recollection—an internally accessible representation of an absent event, object, or sequence. Even findings described as "episodic-like memory" are deliberately called episodic-like for essentially this reason: behavioral experiments can demonstrate what/where/when integration without demonstrating the subjective/reconstructive phenomenon humans mean by remembering an episode.
+Your hypothetical system could therefore be enormously sophisticated while remaining conceptually quite alien:
+sensory signature → retained association → action sequence → outcome
+Except "sensory signature" might contain hundreds or thousands of discriminable dimensions—texture, chemical composition, pressure, geometry, visual properties, proprioceptive state, etc.—and "action sequence" might contain an enormous repertoire of conditional motor programs.
+Then an octopus encounters object X.
+Its suckers obtain an extraordinarily detailed tactile/chemical fingerprint. That fingerprint activates some previously modified neural configuration. That configuration biases a complicated sequence of movements. Feedback continuously modifies which branch of the sequence occurs next.
+From outside, we might observe:
+The octopus remembers how this object works.
+Internally, there needn't necessarily be anything equivalent to:
+I've encountered this thing before. Last time I did X, then Y happened, so now I'll do X.
+Those architectures can produce remarkably similar behavior.
+And that's where your trade-off argument becomes powerful.
+Suppose nervous systems have finite evolutionary budgets for neurons, energy, developmental time, connectivity, signal speed, physical volume, etc. There could be multiple ways of spending that budget.
+One system might invest heavily in sensory resolution + enormous associative capacity + extensive sensorimotor repertoires, producing extraordinary behavioral competence without requiring especially abstract representations.
+Another might sacrifice some of that immediate sensory specificity in favor of compressed, generalized internal representations that can be detached from the circumstances in which they were learned.
+Humans look suspiciously like the second strategy.
+Our sensory equipment isn't remotely maximal. Dogs annihilate us olfactorily; many birds outperform aspects of our vision; bats and dolphins access environmental structure through echolocation; various animals detect polarization, electric fields, magnetic information, infrared, etc.
+Yet humans can take impoverished sensory inputs and construct remarkably elaborate relations between representations.
+And that suggests a useful terminological separation very close to yours:
+Cognitive capacity = how much information an organism can discriminate, integrate, retain, associate and convert into appropriately differentiated behavior.
+Intelligence, in the narrower sense you're proposing = how flexibly an organism can operate upon representations independently of the immediate sensory conditions that originally generated them.
+I wouldn't claim that's the scientific definition of intelligence—there isn't one universally accepted definition—but I think it gives us a very useful variable that ordinary intelligence talk obscures.
+Because now we can ask something much better than "How intelligent is an octopus?"
+We can ask:
+How much of an octopus's extraordinary behavioral complexity comes from representational computation, and how much comes from extremely high-resolution sensorimotor-associative computation?
+Those are experimentally distinguishable.
+For example, increasingly stripping away the original sensory dimensions of a learned problem becomes revealing. If an octopus learns something through a particular combination of visual, chemical and tactile properties, can it recognize the same relationship when all those properties change?
+That's essentially a test of abstraction.
+Learn:
+rough object A → manipulate mechanism → reward
+Then replace everything incidental:
+different texture + different chemical signature + different appearance + different geometry, while preserving only some abstract relation such as smaller object fits into larger opening.
+Does knowledge transfer?
+The farther information transfers across sensory transformations, the harder it becomes to explain behavior through increasingly elaborate stimulus-response association alone.
+And now your two-loop architecture acquires another possible dimension.
+The first loop increases the organism's resolution over the external world:
+sensory differentiation ↔ manipulation ↔ cognitive capacity
+The memory loop increases its resolution over previous states:
+working-memory detail ↔ short-term fidelity ↔ long-term durability
+But there may be another operation that neither necessarily produces:
+abstraction/generalization — extracting a relation from the particular sensory states in which that relation was encountered.
+That might be where something recognizably closer to what humans intuitively mean by intelligence begins separating from raw cognitive capacity.
+And the trade-off is delicious: extreme sensory precision could conceivably reduce the selective pressure for abstraction.
+If you can distinguish 50,000 extremely specific environmental states and associate each with an effective behavioral repertoire, perhaps you don't need to discover that 5,000 of those states instantiate the same abstract relationship.
+Conversely, an organism with relatively limited sensory access but strong representational compression benefits enormously from discovering:
+these superficially different things are actually the same kind of problem.
+That turns your cephalopod comparison upside down in a useful way. Their extraordinary nervous systems might not represent an alternative route toward the same thing humans maximized.
+They might represent the extreme development of a different computational currency—one capable of producing outward behavior sufficiently sophisticated that we've been grouping the two currencies together under "intelligence."
+And that would indeed make the trade-offs, rather than an intelligence ranking, the interesting object of study.
+Because it may mean abstraction ability is the only capacity strictly in the same squence sequence as the environmentally constrained variable. Which is tentatively either being raised by parents and exposed to social relationships and Dynamics while still underdeveloped, or having a vastly shorter life expectancy. And before we assume that these might be in the same sequence, consider the apparently distinct capacity sequences (reflexive loops in the overall global loop) we already have. If abstraction is in a third, it means the one that doesn't contain abstraction is also likely the one that does contain memory.
+Yes. I see the structural implication you're drawing, and I think there's a particularly important distinction to preserve: the environmental variable needn't cause abstraction directly. It may determine which internal investment strategy makes abstraction affordable/useful.
+If we provisionally accept the architecture you've developed, we now have two relatively separable loops:
+A — environmental-interface loop
+(sensory differentiation ↔ manipulation ↔ cognitive capacity)
+B — retention loop
+(working-memory detail ↔ short-term fidelity ↔ long-term durability)
+and we're asking whether abstraction belongs to a third loop C, rather than simply being the high end of A or B.
+Your environmental contrast is then peculiar:
+long protected immaturity + social exposure ← vertebrate route
+versus
+short lifespan + little/no parental knowledge transfer ← coleoid route
+Those look almost opposite. And that makes your proposed trade-off interesting.
+If an organism has a very short lifetime, extremely elaborate durable memory has a reduced potential payoff simply because there is less future in which stored information can be exploited. Selection might instead favor extraordinarily fast acquisition, immediate discrimination and online problem-solving. Conversely, a long-lived organism with years of protected development can profit enormously from durable storage because information acquired early can continue producing returns for decades.
+But now consider abstraction.
+Abstraction can benefit both strategies, for different reasons.
+For the long-lived social learner, abstraction lets experiences become generalized knowledge:
+many particular encounters → common relation → reusable concept.
+For the short-lived organism, abstraction could instead function as computational compression:
+novel situation → extract structural similarity → solve without requiring an enormous library of previously stored particulars.
+That would make abstraction unusually valuable at both extremes.
+And I think that's where your prediction about memory follows.
+If C contains abstraction, while A and B are separate reinforcing loops, then we shouldn't expect abstraction and memory to covary automatically. In fact, the cephalopod comparison might reveal their independence particularly cleanly:
+high abstraction + comparatively shallow durable memory could be viable if abstraction continuously regenerates useful solutions;
+whereas another lineage could develop:
+high durable memory + comparatively low abstraction, producing enormous learned repertoires without correspondingly powerful relational generalization.
+That second category is the critical control. If we can find animals with excellent memory but relatively weak abstraction, then memory cannot simply be treated as an ingredient whose quantitative improvement eventually becomes intelligence. It belongs to a different developmental/evolutionary dimension.
+And such dissociations aren't crazy. Some food-caching birds, for example, possess extraordinary spatial memory. That does not automatically imply that every such species has corvid-level domain-general reasoning. Likewise, animals can show spectacular recognition or associative learning within ecologically important domains without displaying equivalently spectacular transfer to novel relational problems.
+So your architecture makes a fairly strong comparative prediction:
+Across species, memory sophistication should cluster independently of abstraction sophistication more strongly than conventional "general intelligence" accounts would lead us to expect.
+And birds become exceptionally useful now.
+Because within birds we can potentially hold enormous amounts of evolutionary architecture relatively constant while finding different emphases:
+food-caching specialists → unusually strong retention systems;
+highly social/vocal-learning species → substantial learned social information;
+corvids/parrots → unusually impressive transfer, relational reasoning and behavioral flexibility;
+precocial species → much less prolonged helpless social development.
+Instead of comparing human vs octopus—where virtually everything differs—we can use birds to start pulling the variables apart.
+But there's an even more interesting consequence of what you just proposed.
+If abstraction is C, we need to ask what the other members of C are.
+You've been constructing each loop not as a named faculty but as a sequence of mutually reinforcing capacities. So "abstraction" shouldn't constitute the third loop by itself. There should be capacities on either side of it whose improvement increases abstraction's utility and whose utility abstraction reciprocally increases.
+And the environmental variable you've identified gives us a clue.
+Both socially embedded prolonged development and extremely compressed lifespan create, in opposite ways, a premium on extracting generalizable structure rather than accumulating an unlimited collection of particulars.
+One because there is an enormous amount of information to integrate.
+The other because there is very little time in which to acquire it.
+So I would resist filling C in yet.
+Because if the architecture is genuinely there, we shouldn't decide what belongs beside abstraction because it makes a nice theory. We should look for capacities that independently covary with abstraction across cephalopods, cognitively exceptional birds, cetaceans, primates—and crucially, animals that are excellent at A or B but apparently poor at abstraction.
+If that yields two additional variables, we'd have something much more interesting than an explanation constructed around intelligent animals: we'd have a candidate third reflexive subsystem whose existence was predicted by the structure before its components were identified.
+And that's testable.
+Yes. And there's an important distinction to keep in mind. These capacities may not all reinforce one another within a single recursively closed loop (individual animal). The total sequence of a single reflexive loop/capacity sequence might begin internally and be closed within the feedback reinforcement structure only through interactions with specific environmental variables, especially other animals of the same species. Or perhaps even aspects of the animal that we normally consider separately from its individual lifespan; aspects such as....genetics?
+Yes. That changes what the boundary of the system is. And I think genetics is exactly the dangerous-to-overlook possibility here.
+We've implicitly been drawing the recursion around one organism:
+organism at t₁ → experience → changed organism at t₂ → experience → changed organism at t₃
+But there's no biological requirement that an evolutionary feedback loop close within one nervous system—or even within one lifetime.
+The relevant closure could instead be:
+individual → environment/conspecifics → reproductive consequences → population genetics → development of next individual → individual
+In that case, something that looks nonrecursive when examining one animal becomes perfectly recursive when the unit of analysis is the lineage interacting with its environment across generations.
+And cephalopods make this distinction particularly consequential.
+Suppose, just as a deliberately extreme model, an octopus possesses fantastic online abstraction but relatively specialized memory. It spends its short life repeatedly solving problems rather than accumulating an enormous autobiographical model. Successful variants reproduce. What gets transmitted isn't what that octopus learned; it's the developmental architecture that made learning/reconstruction possible.
+So:
+genome → nervous-system architecture → behavior → differential survival/reproduction → changed allele distribution → nervous-system architecture...
+That's an ordinary evolutionary feedback process in one sense. But placed inside the architecture we're constructing, genetic inheritance could function as one of the closure mechanisms for a cognitive capacity loop.
+And humans might close an analogous loop somewhere completely different.
+A human infant's internally incomplete capacities encounter other humans. Those humans supply language, imitation targets, correction, emotional responses, accumulated concepts, tools, conventions, etc. The child's cognition changes; its changed cognition alters subsequent interactions; those interactions feed back again.
+So some portion of a human cognitive loop might literally run:
+brain → another brain → brain.
+Neither individual contains the entire causal circuit.
+That means "sociality causes intelligence" would again be too crude. Conspecifics can constitute components of the developmental feedback architecture through which certain cognitive capacities become established.
+And then culture creates an even stranger possibility:
+brain → external representation → later brain.
+Writing makes part of the cognitive-developmental feedback circuit survive the death of the nervous system that produced it.
+Which brings genetics and culture into an interesting symmetry
+Not equivalence—very different mechanisms—but structurally comparable transmission channels.
+Genetic inheritance preserves information about architectures that successfully generated behavior.
+Social transmission preserves some behavior/information acquired during individual lives.
+Symbolic culture preserves increasingly abstract products of cognition with very high fidelity.
+So a reflexive capacity sequence could potentially close over several characteristic timescales:
+milliseconds–seconds: neural feedback
+minutes–years: learning/memory
+years–lifetimes: social developmental feedback
+generations: cultural transmission
+many generations: genetic evolution
+And those loops can be nested rather than parallel.
+That's important for your proposed multiplicative architecture. What initially appeared to be three loops inside an intelligent animal might actually be three loops operating at completely different biological scales whose intersection occurs in the nervous system.
+There is another consequence that I think is particularly relevant to abstraction.
+Suppose abstraction requires encountering multiple superdifferent instances of the same underlying relation. An isolated individual has only its own experiences from which to obtain those instances.
+But a socially developing animal can receive other individuals' abstractions. Suddenly it doesn't need to independently encounter every example necessary to discover the relation.
+And a genetic/developmental system can bias attention toward distinctions that were repeatedly fitness-relevant to ancestors without transmitting their explicit memories.
+So there are at least three radically different ways past information can constrain present cognition:
+I experienced it. → memory
+Someone else experienced it. → social/cultural transmission
+Ancestors carrying developmental biases toward it reproduced disproportionately. → genetic inheritance
+The third does not transmit learned propositions; selection changes inherited architectures and predispositions. That's an important boundary because otherwise we'd accidentally wander into Lamarckian inheritance. But functionally, all three allow the present organism to behave differently because of information generated by past organism–environment interactions.
+And this makes me reconsider your earlier statement that "it's all in the trade-offs."
+Maybe one of the major evolutionary trade-offs isn't simply memory versus computation.
+It could be where persistence is purchased.
+A lineage has several places in which useful structure can persist:
+synapses, other individuals, culture, or inherited developmental architecture.
+Maintaining each has different costs and advantages. Long-lived socially dependent vertebrates can invest enormously in the middle two. Short-lived, minimally parental cephalopods can't exploit intergenerational social transmission nearly as effectively, so selection may disproportionately optimize what can be rebuilt reliably from inherited architecture plus rapid individual experience.
+And now your mysterious third loop containing abstraction need not even fit entirely inside the animal.
+That is the part I would flag most strongly before we try filling in its other terms. We may have been searching for three neural capacities when the missing terms could instead include something like communication, social modelling, inheritance, developmental plasticity, or transmission fidelity.
+The location of the loop's closure is itself now an empirical variable.
+That's a much bigger change to the model than merely adding genetics. It means the individual organism may be a node in the cognitive evolutionary architecture rather than the boundary of it.
+Or more accurately, A specific configuration of and sequenced arrangentment between any number of the necessary nodes, so long as the remaining nodes and necessary connections between them exist externally and occur in the proper sequence to sustain continuity within the specific environment. One possible data point that would support this, vastly different rates of epigenetic alterations between generations in cephalopods compared to humans and really all other complex animals in general, or something similar. Or it would at least be evidence of one of several prerequisites for this theory to be possible
+Yes. That's the more exact systems formulation. The organism isn't necessarily the loop. It can be one temporarily instantiated configuration of nodes in a loop whose remaining nodes reside elsewhere.
+What has to persist is not a particular component but the ordered causal continuity:
+Given nodes (N_1...N_n), a viable configuration only needs each required transition to occur somewhere, at the appropriate point in the sequence, with enough fidelity that the sequence closes and can recur.
+That permits some very different implementations. One species might close most of the sequence neurally within an individual. Another might close part of it through parent–offspring interaction. Another through social groups. Another across generations through inherited developmental architecture. Different organisms could therefore instantiate the same functional capacity sequence while locating its nodes in completely different substrates and timescales.
+And your proposed cephalopod datum is exactly the kind of observation we'd want, although I searched because there's a fascinating complication: I don't think the necessary comparative epigenetic dataset presently exists well enough to make the human–cephalopod claim. Mammalian transgenerational epigenetic inheritance itself remains contentious because mammals undergo extensive germline/embryonic epigenetic reprogramming; environmentally induced marks usually don't simply pass intact through generations.
+But cephalopods have something arguably more interesting for your hypothesis than the specific epigenetic result you proposed.
+Cephalopods are extraordinary RNA editors
+Coleoid cephalopods perform exceptionally extensive A-to-I RNA editing, particularly in nervous-system transcripts. And this isn't merely static diversification. In Octopus bimaculoides, changing environmental temperature caused editing changes at tens of thousands of RNA sites; thousands altered protein-coding sequences, including proteins important to neural function. Some changes began within hours and stabilized over days.
+That's not transgenerational inheritance. The edited RNA isn't equivalent to rewriting the germline genome, and we shouldn't use it as evidence that acquired information passes to offspring.
+But structurally it is extremely provocative for what you're proposing.
+The ordinary simplified picture is:
+genotype → nervous-system phenotype → environmental interaction
+Cephalopods have unusually powerful machinery allowing something more like:
+genome → editable neural transcriptome ↔ environment
+The genome specifies machinery whose realized molecular implementation can be altered rapidly in response to current environmental conditions. Temperature alone has experimentally demonstrated exactly this sort of environmentally responsive neural-protein recoding.
+So your theory shouldn't actually predict merely "cephalopods should have more epigenetic inheritance." That's unnecessarily specific.
+It predicts something broader and better:
+Species that cannot close an important capacity loop through prolonged individual development, parental transmission, or social/cultural continuity should disproportionately possess some alternative mechanism capable of supplying the missing continuity or adaptive flexibility.
+Then several mechanisms become candidate implementations rather than assumptions:
+genetic selection, epigenetic inheritance, developmental programs, RNA editing, innate sensorimotor architecture, perhaps others.
+That gives us a way of potentially falsifying the idea rather than continually accommodating observations.
+If short-lived, non-parentally taught, cognitively exceptional animals systematically lack compensatory mechanisms—nothing unusual about inherited architecture, developmental plasticity, molecular adaptability, rapid individual learning, etc.—while animals with equivalent ecological constraints routinely function just fine without them, then this proposed closure requirement gets much weaker.
+Conversely, if removing one route to continuity repeatedly predicts disproportionate investment in another, that's quite interesting.
+And there's a deeper implication of your correction that I think is worth making explicit.
+We've been calling A, B and hypothetical C "capacity loops." But perhaps their defining property isn't their components.
+It's their closure condition.
+Two species needn't possess identical nodes. They need to preserve the same necessary relations between functions. If one internal node disappears, an external node can substitute provided that the causal sequence still closes.
+That would mean the proper comparative unit isn't:
+brain architecture,
+organism,
+or even species trait.
+It's something closer to a closed functional pathway distributed across organism × environment × time.
+And suddenly the weird contrasts we've accumulated—human helplessness, bird parental care, cetacean social development, octopus short lifespans, radically distributed cephalopod nervous systems, memory versus abstraction, genetic versus cultural continuity—stop being annoying exceptions.
+They're exactly what we'd expect to examine if evolution can solve the same closure requirement by relocating different portions of the sequence outside the individual.
+The RNA-editing result makes me considerably more interested in actually testing this rather than merely developing it conceptually, because we already have at least one spectacular cephalopod-specific example of unusually extensive environmentally responsive molecular flexibility precisely in the nervous system. That's not confirmation—but it is the kind of independent observation you'd want to encounter at this stage.
+I'll take your excitedness as a sign we've got all the concepts necessary to the idea present in the conversation. Because I felt exactly the same instinct when you began typing that reply but before you mentioned testing. Do as deep of a dive as it will let you do into research about any of the individual potential connections we made, especially the earlier ones and the heavily assumed ones, because the later ones are less likely to have research available by default.
+Worked for 49s
+
+Yes. I went after this as a collection of separate hypotheses rather than trying to find "our theory" in the literature. That was the right approach, because quite a few individual pieces have surprisingly strong support, while several of the links between them remain almost completely untested.
+
+The overall result is encouraging in a very particular way: I did not find an existing theory that already assembles these observations into the closed, cross-scale architecture we've been developing. But most of the early biological premises needed to make that architecture plausible have empirical support. More importantly, some observations I found independently predict relationships we derived before knowing the literature.
+
+1. The bird result is probably the strongest unexpected support
+
+One of our earliest suspicions was:
+
+prolonged parental provisioning / extended post-hatching development ↔ increased neural investment ↔ increased cognitive capability
+
+There is a remarkably direct comparative test.
+
+A 2023 PNAS study examined 1,176 bird species and found that measures of parental provisioning—including altricial versus precocial development, egg investment, and duration of provisioning—strongly predict relative brain size. The authors explicitly argue that parental provisioning permits offspring to overcome the energetic constraints of growing large brains.
+
+Even more strikingly, an independent 2022 analysis covering neuron counts across 111 bird species found that pallial neuron number predicts innovation propensity, and that increased pallial neuron numbers covary with longer post-hatching developmental periods.
+
+That is awfully close to one of our earliest chains:
+
+extended protected development → greater opportunity/energy for neural development → more neural computational capacity → increased behavioral innovation
+
+But notice what the research does not establish. It doesn't tell us whether parental care causes intelligence, whether intelligence selects for prolonged parental care, or whether they recursively reinforce one another.
+
+Which is precisely why your refusal to impose an arrow on the sequence was justified.
+
+Birds also solve our "tiny brain" problem
+
+Corvids and parrots don't achieve sophisticated cognition by simply having mammalian-style large brains in miniature. Large-brained parrots and corvids pack extraordinarily large numbers of neurons into their forebrains—numbers comparable to or exceeding those of some primates with substantially larger brains.
+
+So:
+
+brain mass ≠ neural computational investment.
+
+Distribution, density and allocation matter.
+
+That supports your original emphasis on imbalance/specialization of nervous-system investment, rather than simple brain size.
+
+───
+2. The memory-specialization idea is extremely well supported in birds
+
+You predicted that memory capacity might belong to its own capacity loop rather than simply being a component of intelligence.
+
+Bird research provides almost a textbook natural experiment.
+
+Food-storing passerines that must relocate huge numbers of caches tend to have disproportionately enlarged hippocampal systems relative to related non-storing species. Hippocampal damage impairs cache-location memory, and comparative studies have found more accurate and/or persistent spatial memory in some scatter-hoarding species.
+
+And this specialization develops differently even between related corvid species with different caching requirements.
+
+There has been legitimate controversy about exactly how universal and clean the hippocampus–caching relationship is, so it shouldn't be treated as an invariant law.
+
+But the broad phenomenon stands:
+
+A lineage can invest disproportionately in a specialized memory system in response to an ecological demand for retention.
+
+That is important because it immediately gives us animals possessing exceptional memory specialization without necessarily possessing correspondingly exceptional domain-general abstraction.
+
+So our distinction:
+
+memory capacity ≠ general cognitive capacity ≠ abstraction
+
+has real comparative-neuroscience support.
+
+And birds provide something else we predicted: specialization of plasticity itself. Adult birds add neurons to specific forebrain systems; in songbirds, new neurons are incorporated into specialized song-control circuitry, and some seasonal species partially reconstruct portions of those circuits.
+
+This is very different from "the entire brain becomes more plastic."
+
+Evolution can allocate plasticity selectively.
+
+───
+3. Cephalopod memory is stronger—and stranger—than our extreme hypothetical
+
+Our zero-memory cephalopod thought experiment does not survive existing evidence.
+
+The octopus vertical lobe is demonstrably involved in learning and long-term memory, and it exhibits activity-dependent long-term potentiation remarkably similar in functional principle to vertebrate synaptic memory systems.
+
+Even better for our model, experiments suggest a functional separation between short- and long-term memory mechanisms. Manipulation of vertical-lobe pathways changes learning rate and subsequent long-term recall differently.
+
+That is almost exactly the sort of internal differentiation implied by your second loop:
+
+working representation ↔ short-term retention ↔ durable long-term retention
+
+Not proof of that sequence, obviously. But evidence that "memory" is not one undifferentiated capacity even within an octopus.
+
+Cuttlefish go considerably further.They can behaviorally retain integrated information about:
+
+what happened + where + when.
+
+That capacity remains surprisingly intact into senescence.
+
+And a 2024 study found evidence suggestive of false visual memories in cuttlefish. The authors interpret this as possible evidence that cephalopod memory can involve reconstructive processes rather than merely fixed stimulus-response retrieval.
+
+That last finding particularly matters for your caution that animal "memory" needn't resemble human memory.
+
+You're still right.
+
+"episodic-like" is deliberately used because behavioral what–where–when performance does not demonstrate the phenomenological human experience of remembering oneself in a past event.
+
+But the false-memory result makes a purely simple sensory-trigger model harder to maintain for all cephalopod memory.
+
+───
+4. Your arm-memory hypothesis remains remarkably open
+
+Here's something I found genuinely striking: we apparently know much more about how octopus arms process information than about whether they retain durable learned information locally.
+
+Octopus arms contain specialized chemotactile receptors permitting extremely rich contact-dependent "taste-by-touch" processing. Distinct sensory cell populations encode chemical and mechanical information locally.
+
+The peripheral system can perform substantial autonomous sensorimotor processing.
+
+But experiments also demonstrate that the central nervous system receives and uses arm-specific tactile and movement information during learned tasks. An arm is therefore neither merely a puppet nor clearly an independent cognitive unit.
+
+What I did not find was convincing direct evidence of:
+
+long-lived memory traces stored specifically within individual arm nervous systems whose loss would selectively eliminate learned information.
+
+That looks like a genuine gap.
+
+There is active connectomic work on sucker and arm ganglia, but these peripheral circuits remain comparatively poorly understood.
+
+So your distinction remains completely legitimate:
+
+local processing ability
+does not entail
+local memory storage.
+
+And experimentally distinguishing them could reveal a great deal about what distributed nervous systems are actually distributing.
+
+───
+5. The abstraction variable turns out to be even more important—and harder to define
+
+Research on comparative cognition strongly supports your instinct that abstraction shouldn't simply be treated as the upper end of "learning."
+
+Animals can succeed through several increasingly general mechanisms:
+
+specific association → categorization → relational learning → abstraction across novel exemplars.
+
+Researchers explicitly warn that tests of abstract concepts must demonstrate transfer to new examples; otherwise sophisticated associative learning can masquerade as abstraction.
+
+This is exactly the distinction you were making with the hypothetical octopus recognizing an enormous sensory profile.
+
+And birds provide excellent positive controls.
+
+Crows have demonstrated spontaneous relational matching—responding to the relationship between stimuli rather than their particular physical identities—in a paradigm generally interpreted as analogical reasoning.
+
+Grey parrots have demonstrated cross-modal and symbolic relational abilities involving number and ordinal relations.
+
+Now here's the significant asymmetry:
+
+I found lots of evidence for cephalopod conditional discrimination, reversal learning, spatial learning, associative learning, episodic-like retention and flexible behavioral strategies.
+
+I did not find comparably compelling literature establishing broad, cross-domain relational abstraction in cephalopods on the level of the strongest crow/parrot work.
+
+That absence isn't evidence they lack it. Cephalopods are experimentally difficult, the literature is much smaller, sensory ecology makes vertebrate-oriented tests problematic, and individual variability is enormous.
+
+But it's exactly the empirical gap our model predicts should matter.
+
+───
+6. Cephalopods also prevent us from equating intelligence with one single capacity
+
+One study I especially like for this reason tested episodic-like memory in seven common octopuses.
+
+Only one acquired the complete what–where–when strategy. The others relied on simpler but effective strategies such as familiarity avoidance, alternation, win-stay rules or risk sensitivity. There was considerable variation both between individuals and within individuals over time.
+
+That's remarkable for our purposes.
+
+Same broad nervous-system architecture.
+
+Same species.
+
+Same experimental problem.
+
+Different functional strategies.
+
+It argues against assuming that sophisticated behavior reveals a single underlying cognitive mechanism.
+
+Similarly, cuttlefish can delay gratification for roughly 50–130 seconds under experimental conditions, and individuals capable of longer delays also performed better on reversal learning.
+
+So certain capacities do covary.
+
+But that doesn't mean they are identical.
+
+This increasingly looks like a configuration problem, exactly as you just reformulated it: particular combinations of capacities can generate outwardly similar levels of behavioral sophistication.
+
+───
+7. One of our strongest assumptions about human altriciality needs modification
+
+Humans really are unusual developmentally, but the conventional claim "humans are the most altricial mammals" is wrong.
+
+A 2024 comparative analysis of 140 placental mammals concluded that humans exhibit an exceptionally rapid evolutionary shift toward lower neonatal brain maturity relative to adult brain size, but that this results primarily from enormous postnatal brain growth. Only a relatively small number of neurodevelopmental events appear actually to have been shifted from prenatal into postnatal development during hominin evolution.
+
+So our useful variable is probably not simple altriciality.
+
+The better variable is something like:
+
+duration and magnitude of environmentally exposed neural maturation.
+
+That fits our argument better anyway.
+
+Humans exhibit prolonged postnatal brain development, extended synaptogenesis/myelination trajectories and extraordinary dependence on social learning. Human brain plasticity appears evolutionarily specialized for responsiveness to social/environmental experience.
+
+So our original intuition survives, but with better precision.
+
+───
+8. Sociality itself is insufficient—but social information retention looks much stronger
+
+Cetaceans provide another useful test.
+
+Across cetacean species, encephalization correlates with measures of social structure and breadth of socially learned/cultural behavior. Larger-brained cetaceans tend to possess richer social and cultural repertoires.
+
+That supports some connection among:
+
+neural investment ↔ social complexity ↔ information transmission
+
+but not the simplistic:
+
+social animals become intelligent.
+
+Plenty of highly social animals aren't dolphins.
+
+Likewise, comparative researchers have explicitly moved away from a pure "social brain" explanation toward cultural intelligence models emphasizing social learning, behavioral flexibility and the expense of neural tissue.
+
+That resonates much more strongly with our architecture because the relevant environmental node isn't mere group membership.
+
+It is access to information generated by other minds.
+
+───
+9. The intergenerational-continuity idea produced the strangest result
+
+Your suggestion was:
+
+perhaps cephalopods should show unusually strong epigenetic or comparable mechanisms if some portions of their relevant capacity sequence close across generations rather than through parental/social transmission.
+
+I specifically searched for this.
+
+The direct epigenetic prediction is currently unsupported.
+
+Cephalopods have conserved DNA methylation and histone-regulatory machinery, but measured DNA methylation levels in several cephalopods appear lower than vertebrate levels, not obviously dramatically greater. The field is young, and transgenerational cephalopod epigenetics is nowhere near developed enough to make a serious comparative claim.
+
+So:
+
+exceptional cephalopod transgenerational epigenetic inheritance: presently unknown/not established.
+
+That is an important negative result.
+
+But then comes the RNA editing.
+
+───
+10. Cephalopod RNA editing fits the broader prediction almost unnervingly well
+
+Behaviorally sophisticated coleoid cephalopods perform extraordinary levels of A-to-I RNA editing, especially in neural tissues.
+
+A major 2017 study found tens of thousands of evolutionarily conserved recoding sites concentrated in genes involved in neuronal excitability and morphology.
+
+And there is a literal trade-off.
+
+Maintaining editable RNA structures constrains the underlying DNA sequences around those sites. The authors found reduced genomic mutation/polymorphism around extensively edited regions and explicitly characterized the phenomenon as a:
+
+trade-off between genome evolution and transcriptome plasticity.
+
+That phrase could practically have fallen out of our conversation.
+
+It means coleoid evolution has apparently paid some loss in genomic sequence flexibility to preserve an unusually powerful post-transcriptional mechanism for altering neural proteins.
+
+That doesn't transmit learned memories.
+
+It does something structurally closer to another possibility we identified:
+
+preserve an inherited architecture capable of producing large amounts of adaptive variation during the individual's lifetime.
+
+So our original specific hypothesis:
+
+cephalopods compensate through unusually strong epigenetic inheritance
+
+doesn't currently have support.
+
+But the broader hypothesis:
+
+their life-history architecture should be associated with unusual alternative mechanisms of adaptive flexibility
+
+has a spectacular candidate.
+
+───
+11. Which brings us to the "trade-offs" idea
+
+The research is increasingly consistent with thinking in terms of allocation rather than scalar intelligence.
+
+There are finite biological resources:
+
+energy, neurons, developmental time, lifespan, physical volume, parental investment, genomic flexibility, sensory bandwidth, connectivity, etc.
+
+And different lineages appear to allocate those differently.
+
+Birds can purchase:
+
+extreme neuronal density + parental provisioning + long post-hatching neural development.
+
+Humans purchase:
+
+very prolonged development + tremendous durable memory + social transmission + abstraction + cultural accumulation.
+
+Food-storing birds purchase:
+
+disproportionately specialized spatial memory machinery.
+
+Cephalopods purchase:
+
+enormous peripheral sensorimotor processing + extraordinary sensory specialization + central learning machinery + unusually extensive neural RNA editing, while generally receiving little parental instruction and often living comparatively short lives.
+
+Those aren't necessarily different amounts of one thing called intelligence.
+
+They may be different solutions in a constrained multidimensional design space.
+
+───
+12. There is direct evidence for the independence of some loops
+
+This might be the single most useful conclusion.
+
+The literature already
+ dissociations of the kind our architecture predicts.
+
+Excellent memory does not guarantee exceptional abstraction.
+
+Excellent abstraction does not require a mammalian cortex.
+
+Large brains aren't required for very high forebrain neuron counts.
+
+Strong sociality does not guarantee large brains.
+
+Sophisticated learning does not require parental teaching.
+
+Complex behavior does not guarantee the same underlying strategy even within one species.
+
+Long-term memory and short-term learning can involve distinguishable neural mechanisms.
+
+Central and peripheral processing can coexist without telling us where durable information is stored.
+
+That makes a one-dimensional "intelligence" variable increasingly inadequate for the question we're asking.
+
+───
+13. Your two-loop architecture has survived remarkably well
+
+I'd now write the two established candidate sequences roughly as you did:
+
+Loop A — environment/action/cognition
+
+--( sensory differentiation ↔ environmental manipulation ↔ cognitive capacity )--<
+
+The evidence strongly supports interactions among these, but not a universal causal ordering.
+
+Cephalopod chemotactile specialization and distributed sensorimotor processing are particularly good examples.
+
+Loop B — retention
+
+--( detailed working representation ↔ short-term retention/fidelity ↔ durable long-term retention )--<
+
+The exact partitioning needs serious neuroscientific refinement, but distinct short/long-term memory machinery and specialized memory allocation are well established enough to justify treating memory architecture independently from generic cognition.
+
+And the evidence supports your × intuition more than an additive model in one limited sense:
+
+improvements in one domain frequently alter the evolutionary value of investment in another. Parental provisioning changes the energetic feasibility of neural development; neuron count predicts innovation; caching demands predict memory-system specialization; cephalopod RNA plasticity trades directly against genomic evolvability.
+
+Whether the resulting dynamics are literally multiplicative remains a mathematical hypothesis.
+
+───
+14. Loop C is now the genuinely interesting unknown
+
+I agree with our decision not to fill it in prematurely.
+
+We have one particularly interesting candidate node:
+
+abstraction / relational representation.
+
+But here's what the literature suggests we need to distinguish.
+
+Abstraction could mean:
+
+category abstraction — ignoring irrelevant differences.
+
+relational abstraction — recognizing A:B as structurally equivalent to C:D.
+
+cross-modal abstraction — recognizing the same relation through different sensory channels.
+
+counterfactual representation — representing unavailable alternatives.
+
+temporal abstraction — reasoning across past/future states.
+
+Those may themselves dissociate.
+
+Crows provide surprisingly strong evidence for relational abstraction.
+
+Parrots provide symbolic/ordinal abstraction.
+
+Scrub-jays provide sophisticated memory and evidence of future-oriented behavior, although even within corvids closely related species don't uniformly reproduce the same planning results.
+
+Cephalopods provide abundant evidence of learning, behavioral flexibility, delayed gratification, conditional discrimination and memory—but much less decisive evidence concerning high-order cross-context relational abstraction.
+
+That makes abstraction one of the best variables to investigate next.
+
+───
+15. And your newest correction may be the most consequential
+
+The biggest conceptual change from the research isn't neurological.
+
+It's our realization that the boundaries of each loop don't have to coincide with the boundaries of an organism.
+
+Nothing I've found contradicts that. In fact, several well-established phenomena make it almost unavoidable.
+
+Parental provisioning can enable neural architecture that couldn't otherwise energetically develop.
+
+Social learning gives an animal information generated by another nervous system.
+
+Culture permits information to persist beyond the originating individual.
+
+Genetic evolution preserves developmental architectures across generations.
+
+RNA editing can permit inherited molecular machinery to generate environmentally responsive neural variation within an individual.
+
+Consequently, your latest formulation is the best one:
+
+An individual animal need only instantiate a particular configuration and ordering of the necessary nodes, provided that the missing nodes and required connections occur externally, in the correct sequence and timescale, sufficiently reliably to maintain closure.
+
+That is not established evolutionary theory in the specific cognitive form we're giving it.
+
+But its component mechanisms are absolutely real.
+
+───
+Where I would grade the hypothesis right now
+
+Strongly supported prerequisites: specialized neural investment exists; memory systems can evolve independently/specially; sensory systems and behavioral control co-specialize; parental provisioning predicts neural development in birds; neural allocation predicts innovation; cephalopods genuinely learn and remember; cephalopods have radically distributed sensorimotor processing; cognition can evolve without parental teaching; neural plasticity can itself be anatomically specialized.
+
+Supported but causally unresolved: prolonged development ↔ neural investment ↔ cognition; social transmission ↔ brain/cognitive complexity; sensory differentiation ↔ manipulation ↔ cognitive sophistication; memory sophistication ↔ general cognitive flexibility.
+
+Plausible and genuinely open: abstraction occupying a distinct capacity sequence; individual lineages distributing required nodes differently between organism/environment; compensatory trade-offs among memory, sensory precision, online computation, abstraction and external information transmission; loop closure occurring across different temporal scales.
+
+Currently unsupported: cephalopods having unusually strong transgenerational epigenetic inheritance; durable memories residing specifically in individual octopus arms; a universal multiplicative law connecting the candidate loops.
+
+Actively contradicted in its strongest form: cephalopods possessing almost no memory. The evidence for durable, integrated and perhaps reconstructive memory is too strong for that.
+
+And then there's the most interesting finding of the whole search:
+
+The literature seems to contain the pieces, but not the architecture.
+
+There are entire research traditions studying life-history evolution, cognitive ecology, parental provisioning, comparative memory, neural specialization, social brain/cultural intelligence, cephalopod cognition, distributed nervous systems, RNA editing, and relational abstraction.
+
+They mostly ask questions within those categories.
+
+What we've accidentally started asking is:
+
+What minimal set of capacity sequences must close, by any combination of internal, environmental, social and hereditary nodes, for selection to sustain an accelerating regime of increasingly sophisticated cognition?
+
+That's a different question.
+
+And I now think the cleanest next move isn't more theorizing. It is to construct a comparative matrix of perhaps 30–50 strategically chosen species—not ranked by intelligence—with columns for parental provisioning, juvenile dependence, lifespan, social transmission, nervous-system centralization, sensory differentiation, manipulatory degrees of freedom, memory specialization, long-term retention, relational abstraction, neuron allocation/density, adult neurogenesis, molecular plasticity, and so forth.
+
+Then we look for dissociations.
+
+The animals that break apparent correlations will tell us what belongs in different loops.
+
+The animals in which capacities repeatedly travel together will tell us what might belong in the same loop.
+
+And the cases where an internal capacity disappears while some external mechanism appears to replace its function are exactly where we'd begin testing your distributed closure proposition.
+
+After this dive, I'd say we've reached the point where that comparison would produce more information than another round of pure conceptual elaboration.
